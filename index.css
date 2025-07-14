@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headersect {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin-right: 120px;
+    margin-left: 50px;
+}
+
+.headernav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+.headersectb {
+    padding-left: 100px;
+}
+
+.about {
+    color: #199ED3;
+}
+
+.contactusbtn {
+    background-color: #15634C;
+    color: white;
+    border: 2px solid #15634C;
+    height: 40px;
+    width: 120px;
+    border-radius: 9px;
+}
+
+.curioussect {
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin-right: 20px;
+    margin-left: 100px;
+}
+
+.curioustext {
+    padding-top: 30px;
+    margin-right: 150px;
+}
+
+.curioustext h1 {
+    color: #199ED3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.curioustext p {
+    color: gray;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+.call-btn {
+    width: 88px;
+    height: 35px;
+    color: white;
+    background-color: #199ED3;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.msg-btn {
+    width: 180px;
+    height: 35px;
+    color: white;
+    background-color: #15634C;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.medicalbilling{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.card1{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 450px;
+    font-size: 15px;
+    color: gray;
+}
+.oth-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-a{
+    background-color: #e6f4ff;
+    margin-bottom: 20px;
+    flex: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 120px;
+    width: 280px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    text-align: left;
+    margin-left: 30px;
+}
+.card-a p{
+    font-size: 12px;
+    color: gray;
+}
+.card-a h2{
+    color: #199ED3;
+}
+.oth-card{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.todaysect{
+    margin-top: 50px;
+}
+.todaysect h1{
+text-align: center;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+color: #199ED3;
+margin-bottom: 20px;
+}
+.msg-btn2 {
+    width: 130px;
+    height: 40px;
+    color: white;
+    background-color: #15634C;
+    border: none;
+    border-radius: 9px;
+    margin-right: 20px;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footersect{
+    background-color: #199ED3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 120px;
+    padding: 0 40px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.footersect h2{
+    font-size: 18px;
+}
+.footersect h3{
+    font-size: 15px;
+    margin-top: 8px;
+}
+.footersect p{
+    font-size: 15px;
+}
+.hour1{
+    width: 170px;
+    height: 50px;
+    background-color: #15634C;
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+hr{
+border: 1px solid white;
+}
+.footer2{
+    background-color: #199ED3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
